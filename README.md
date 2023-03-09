@@ -5,6 +5,8 @@ Notes and scripts made from doing [this Udemy course](https://www.udemy.com/cour
 
 Any of the examples can be run in a mongo shell or a GUI like [Studio3T](https://studio3t.com/download/)
 
+You will likely want to install the [Mongo Database Tools](https://www.mongodb.com/docs/database-tools/) as well.
+
 ## Notes
 
 ### Server Config
@@ -31,3 +33,7 @@ Also see [this article](https://www.helenjoscott.com/2022/01/29/mongod-mongo-mon
  # `--drop` means it will drop the collection and replace it with this data if it exists (will append if left off)
  mongoimport tv-shows.json -d movieDB -c shows --jsonArray --drop
  ```
+
+ If you get authenication errors you may need to run something along the lines of:
+
+ `mongoimport --authenticationDatabase admin --username myUser --password myPassword tv-shows.json -d movieDB -c shows --jsonArray --drop`
