@@ -34,6 +34,6 @@ Also see [this article](https://www.helenjoscott.com/2022/01/29/mongod-mongo-mon
  mongoimport tv-shows.json -d movieDB -c shows --jsonArray --drop
  ```
 
- If you get authenication errors you may need to run something along the lines of:
+ If you get authentication errors you may need to run something along the lines of:
 
  `mongoimport --authenticationDatabase admin --username myUser --password myPassword tv-shows.json -d movieDB -c shows --jsonArray --drop`
