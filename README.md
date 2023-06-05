@@ -15,7 +15,7 @@ A number of options exist for configuring things like:
 - db path
 - log path
 
-Options can be added via [command line](https://www.mongodb.com/docs/mongodb-shell/install/) or through a [configuartion file](https://www.mongodb.com/docs/manual/reference/configuration-options/)
+Options can be added via [command line](https://www.mongodb.com/docs/mongodb-shell/install/) or through a [configuration file](https://www.mongodb.com/docs/manual/reference/configuration-options/)
 
 Also see [this article](https://www.helenjoscott.com/2022/01/29/mongod-mongo-mongosh-mongos-what-now/) on differences between `mongod`, `mongo`, `mongosh`, `mongos`
 
