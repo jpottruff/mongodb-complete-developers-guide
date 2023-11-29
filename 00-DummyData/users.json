@@ -1,0 +1,115 @@
+[
+    {
+      "name": "John Doe",
+      "age": 25,
+      "phone": "555-1234",
+      "hobbies": [
+        {"title": "Reading", "frequency": 4},
+        {"title": "Gaming", "frequency": 2}
+      ],
+      "nicknames": ["Johnny", "friend", "guy"]
+    },
+    {
+        "name": "Michael Davis",
+        "age": 26,
+        "phone": "555-3456",
+        "hobbies": [
+          {"title": "Gaming", "frequency": 7},
+          {"title": "Reading", "frequency": 6}
+        ],
+        "nicknames": ["Mike", "guy", "friend"]
+    },
+    {
+      "name": "Jane Smith",
+      "age": null,
+      "hobbies": [
+        {"title": "Hiking", "frequency": 6},
+        {"title": "Photography", "frequency": 3},
+        {"title": "Cooking", "frequency": 5},
+        {"title": "Painting", "frequency": 1}
+      ],
+      "nicknames": ["Janey", "Smitty"]
+    },
+    {
+      "name": "Bob Johnson",
+      "age": 30,
+      "phone": null,
+      "hobbies": [
+        {"title": "Cycling", "frequency": 7},
+        {"title": "Cooking", "frequency": 5}
+      ],
+      "nicknames": ["Bobby", "Big Bob"]
+    },
+    {
+      "name": "Alice Williams",
+      "age": 28,
+      "phone": "555-5678",
+      "hobbies": [
+        {"title": "Painting", "frequency": 3},
+        {"title": "Traveling", "frequency": 5}
+      ],
+      "nicknames": ["Ali"]
+    },
+    {
+      "name": "Charlie Brown",
+      "age": 22,
+      "phone": "555-9876",
+      "hobbies": [
+        {"title": "Singing", "frequency": 6},
+        {"title": "Dancing", "frequency": 4},
+        {"title": "Reading", "frequency": 2}
+      ],
+      "nicknames": ["Chuck", "Chaz"]
+    },
+    {
+      "name": "Eva Martinez",
+      "age": null,
+      "phone": "555-4321",
+      "hobbies": [
+        {"title": "Yoga", "frequency": 7},
+        {"title": "Reading", "frequency": 2}
+      ],
+      "nicknames": ["Evie"]
+    },
+    {
+      "name": "David Miller",
+      "age": 35,
+      "phone": null,
+      "hobbies": [
+        {"title": "Gardening", "frequency": 6},
+        {"title": "Chess", "frequency": 4}
+      ],
+      "nicknames": ["Dave"]
+    },
+    {
+      "name": "Grace Lee",
+      "age": 27,
+      "phone": "555-8765",
+      "hobbies": [
+        {"title": "Running", "frequency": 7},
+        {"title": "Cooking", "frequency": 6}
+      ],
+      "nicknames": ["Gracie"]
+    },
+    {
+      "name": "Frank Adams",
+      "age": null,
+      "phone": null,
+      "hobbies": [
+        {"title": "Fishing", "frequency": 3},
+        {"title": "Camping", "frequency": 5}
+      ],
+      "nicknames": ["Frankie"]
+    },
+    {
+      "name": "Sophie Turner",
+      "age": 31,
+      "phone": "555-2345",
+      "hobbies": [
+        {"title": "Movies", "frequency": 4},
+        {"title": "Photography", "frequency": 5}
+      ],
+      "nicknames": ["Soph"]
+    }
+  ]
+  
