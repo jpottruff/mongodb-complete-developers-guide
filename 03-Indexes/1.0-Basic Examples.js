@@ -1,6 +1,6 @@
 // IMPORT `00-Dummy Data/persons.json` - you will likely need mongotools installed
 // If you have mongo-tools - use the script below replacing `myUser`, `myPassword`, `myDB` as needed
-// mongoimport --authenticationDatabase admin --username myUser --password myPassword persons.json -d myDB -c shows --jsonArray --drop
+// mongoimport --authenticationDatabase admin --username myUser --password myPassword persons.json -d myDB -c persons --jsonArray --drop
 
 // * BASIC FLOW
 // STEP 1: USE EXPLAIN TO GET STATUS 
