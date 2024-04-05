@@ -31,6 +31,7 @@
 //]);
 
 // EXAMPLE 4 - Pagination w/ $facet to get a total as well
+// https://stackoverflow.com/questions/20348093/mongodb-aggregation-how-to-get-total-records-count/49483919#49483919
 //db.getCollection("persons").aggregate([
 ////  SETUP DATA
 //    { $project: {_id: 0, name: { $concat: ["$name.first", " ", "$name.last"] }, birthdate: {$toDate: "$dob.date" } } },
